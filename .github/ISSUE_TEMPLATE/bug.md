@@ -62,3 +62,4 @@ project_name [Project Name]: ...
 </pre>
 </details>
 </summary>
+  (Please, take care to remove sensitive information updated)
